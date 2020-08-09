@@ -1,0 +1,6 @@
+gandalf@QixII:~/projects/examples/mean_example/build$ ./mean_test ../test/test3.csv 
+5.24267
+gandalf@QixII:~/projects/examples/mean_example/build$ ./mean_test ../test/test2.csv 
+3
+gandalf@QixII:~/projects/examples/mean_example/build$ ./mean_test ../test/test1.csv 
+16.6331
